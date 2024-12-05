@@ -1,2 +1,3 @@
 # Pandas
-Exploring the Pandas library
+
+This repository documents my exploration of Python's pandas library. 
